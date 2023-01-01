@@ -1,7 +1,8 @@
 
 
 
-import 'package:local_notification/model/remote_notification_model.dart';
+
+import 'package:local_notification_package/model/remote_notification_model.dart';
 
 class RemoteMessageModel {
   final String? senderId;
